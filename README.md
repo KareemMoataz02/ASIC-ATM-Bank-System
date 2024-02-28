@@ -57,11 +57,7 @@ Timers for operation control
 Operations: Deposit, Withdraw, Balance service
 Account information (local): Passwords, Account numbers, Balances
 Auxiliary Devices (Assumed):
-
 Card handling device
 Money counting device
 Timers for operation timing
 
-### Weekly Discussions
-- Weekly discussions on project deliverables using MS-Teams.
-- Each group has a 15-minute time slot to present and discuss progress.
